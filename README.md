@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cpluz-shrijayan
-- 👀 I’m interested in Machine Learning and Neural Networks
+- 👀 I’m interested in Deep Learning and Machine Learning
 - 🌱 I’m currently learning B.Tech Artificial Intelligence & Data Science
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me shrijayan@cpluz.com
