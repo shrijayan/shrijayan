@@ -1,13 +1,13 @@
 [![MasterHead](https://shrijayan.cpluz.com/assets/LINKEDIN%20BCK%20PHOTO.png)](https://shrijayan.cpluz.com)
 <h1 align="center">Hi 👋, I'm Shrijayan Rajendran</h1>
 <h3 align="center">Aspiring Artificial Intelligence & Data Science Engineer | Machine Learning and Neural Networks | Learning with Python and Embedded Systems</h3>
-<img align="right" alt="Coding" width="330" src="https://shrijayan.cpluz.com/assets/github.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cpluz-shrijayan&label=Profile%20views&color=0e75b6&style=flat" alt="cpluz-shrijayan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cpluz-shrijayan" alt="cpluz-shrijayan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/cpluz_shrijayan" target="blank"><img src="https://img.shields.io/twitter/follow/cpluz_shrijayan?logo=twitter&style=for-the-badge" alt="cpluz_shrijayan" /></a> </p>
-
+<img align="right" alt="Coding" width="330" src="https://shrijayan.cpluz.com/assets/github.gif">
 - 🌱 I’m currently learning **Artificial Intelligence Technologies**
 
 - 👨‍💻 All of my projects are available at [shrijayan.cpluz.com](shrijayan.cpluz.com)
