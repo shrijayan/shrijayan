@@ -1,4 +1,4 @@
-[![MasterHead](https://shrijayan.cpluz.com/assets/LINKEDIN%20BCK%20PHOTO.png)](https://shrijayan.cpluz.com)
+[![MasterHead](https://github.com/cpluz-shrijayan/cpluz-shrijayan/blob/main/LINKEDIN%20BCK%20PHOTO.png)](https://shrijayan.cpluz.com)
 <h1 align="center">Hi 👋, I'm Shrijayan Rajendran</h1>
 <h3 align="center">Aspiring Artificial Intelligence & Data Science Engineer | Machine Learning and Neural Networks | Learning with Python and Embedded Systems</h3>
 
