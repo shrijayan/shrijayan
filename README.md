@@ -10,15 +10,15 @@
 <img align="right" alt="Coding" width="330" src="https://shrijayan.cpluz.com/assets/github.gif">
 - 🌱 I’m currently learning **Artificial Intelligence Technologies**
 
-- 👨‍💻 All of my projects are available at [shrijayan's Projects](https://www.shrijayan.cpluz.com)
+- 👨‍💻 All of my projects are available at [shrijayan's Projects](https://shrijayan.cpluz.com)
 
-- 📝 I regularly write articles on [Shrijayan's Blogs](https://www.shrijayan.cpluz.com/blog)
+- 📝 I regularly write articles on [Shrijayan's Blogs](https://shrijayan.cpluz.com/blog)
 
 - 💬 Ask me about **Learning Data Science with hands-on experience in Machine learning, Predictive Modelling, Clustering, Time Series Forecasting, Natural Language Processing, Programming Languages such as Python, Data Visualization tools such as Power BI.**
 
 - 📫 How to reach me **shrijayan@cpluz.com**
 
-- 📄 Know about my experiences [Shrijayan Resume](https://www.shrijayan.cpluz.com/resume)
+- 📄 Know about my experiences [Shrijayan Resume](https://shrijayan.cpluz.com/resume)
 
 - ⚡ Fun fact **I think I am learning**
 
