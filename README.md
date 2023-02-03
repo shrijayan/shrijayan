@@ -16,15 +16,15 @@
 
 - 🤝 I’m looking for jobs with **Fresh Ideas**
 
-- 👨‍💻 All of my projects are available at [shrijayan.cpluz.com](shrijayan.cpluz.com)
+- 👨‍💻 All of my projects are available at [Shrijayan's Website](https://www.shrijayan.cpluz.com)
 
-- 📝 I regularly write articles on [linkedin.com/in/cpluz-shrijayan/recent-activity/](linkedin.com/in/cpluz-shrijayan/recent-activity/)
+- 📝 I regularly write articles on [Daily Basis](https://www.linkedin.com/in/cpluz-shrijayan/recent-activity/)
 
 - 💬 Ask me about **Machine Learning & Deep Learning**
 
 - 📫 How to reach me **shrijayan@cpluz.com**
 
-- 📄 Know about my experiences [shrijayan.cpluz.com/resume](shrijayan.cpluz.com/resume)
+- 📄 Know about my experiences from [Resume](shrijayan.cpluz.com/resume)
 
 - ⚡ Fun fact **I think I am learning Daily**
 
