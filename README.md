@@ -51,3 +51,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cpluz-shrijayan&show_icons=true&locale=en" alt="cpluz-shrijayan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cpluz-shrijayan&" alt="cpluz-shrijayan" /></p>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+
+
+<!-- BLOG-POST-LIST:END -->
