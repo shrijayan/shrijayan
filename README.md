@@ -30,11 +30,11 @@
 
 ## 📚 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Regularization](https://medium.com/@cpluz_shrijayan/regularization-41563a70f55a?source=rss-c41bfcbcc93c------2)
 - [Enumerate function](https://medium.com/@cpluz_shrijayan/enumerate-function-3054e4a9b88b?source=rss-c41bfcbcc93c------2)
 - [Minima](https://medium.com/@cpluz_shrijayan/minima-e77ea5e6a135?source=rss-c41bfcbcc93c------2)
 - [Break | Continue | Pass](https://medium.com/@cpluz_shrijayan/break-continue-pass-d86024a89ba8?source=rss-c41bfcbcc93c------2)
 - [Inheritance &amp; Polymorphism](https://medium.com/@cpluz_shrijayan/inheritance-polymorphism-ff74561b8034?source=rss-c41bfcbcc93c------2)
-- [Quantile Regression: An Overview](https://medium.com/@cpluz_shrijayan/quantile-regression-an-overview-2f2af98ce018?source=rss-c41bfcbcc93c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
