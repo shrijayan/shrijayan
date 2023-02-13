@@ -30,11 +30,11 @@
 
 ## 📚 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling Text and Categorical Attributes in Machine Learning](https://medium.com/@cpluz_shrijayan/handling-text-and-categorical-attributes-in-machine-learning-d0b91b4d75fb?source=rss-c41bfcbcc93c------2)
 - [Poor-Quality Data](https://medium.com/@cpluz_shrijayan/poor-quality-data-ada1a6c18c1e?source=rss-c41bfcbcc93c------2)
 - [Jump statements](https://medium.com/@cpluz_shrijayan/jump-statements-6fbcb2065eeb?source=rss-c41bfcbcc93c------2)
 - [Model Deployment](https://medium.com/@cpluz_shrijayan/model-deployment-9d169793f33c?source=rss-c41bfcbcc93c------2)
 - [Regularization](https://medium.com/@cpluz_shrijayan/regularization-41563a70f55a?source=rss-c41bfcbcc93c------2)
-- [Enumerate function](https://medium.com/@cpluz_shrijayan/enumerate-function-3054e4a9b88b?source=rss-c41bfcbcc93c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
