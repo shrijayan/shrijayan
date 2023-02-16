@@ -30,11 +30,11 @@
 
 ## 📚 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Heatmap](https://medium.com/@cpluz_shrijayan/heatmap-6e096ac6c37f?source=rss-c41bfcbcc93c------2)
 - [#️⃣ Know the INS and OUTS of Tables Representation](https://medium.com/@cpluz_shrijayan/%EF%B8%8F%E2%83%A3-know-the-ins-and-outs-of-tables-representation-61ab06f014dd?source=rss-c41bfcbcc93c------2)
 - [Handling Text and Categorical Attributes in Machine Learning](https://medium.com/@cpluz_shrijayan/handling-text-and-categorical-attributes-in-machine-learning-d0b91b4d75fb?source=rss-c41bfcbcc93c------2)
 - [Poor-Quality Data](https://medium.com/@cpluz_shrijayan/poor-quality-data-ada1a6c18c1e?source=rss-c41bfcbcc93c------2)
 - [Jump statements](https://medium.com/@cpluz_shrijayan/jump-statements-6fbcb2065eeb?source=rss-c41bfcbcc93c------2)
-- [Model Deployment](https://medium.com/@cpluz_shrijayan/model-deployment-9d169793f33c?source=rss-c41bfcbcc93c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
