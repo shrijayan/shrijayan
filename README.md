@@ -30,11 +30,11 @@
 
 ## 📚 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Feature Scaling](https://medium.com/@cpluz_shrijayan/feature-scaling-d4bcba9cb7c5?source=rss-c41bfcbcc93c------2)
 - [Do you know what is meant by  3‐minute story?](https://medium.com/@cpluz_shrijayan/do-you-know-what-is-meant-by-3-minute-story-341041417c63?source=rss-c41bfcbcc93c------2)
 - [Poisson distribution](https://medium.com/@cpluz_shrijayan/poisson-distribution-cbacef1221bd?source=rss-c41bfcbcc93c------2)
 - [⏲ Time Series Analysis](https://medium.com/@cpluz_shrijayan/time-series-analysis-7c4f3e88ad1b?source=rss-c41bfcbcc93c------2)
 - [Heatmap](https://medium.com/@cpluz_shrijayan/heatmap-6e096ac6c37f?source=rss-c41bfcbcc93c------2)
-- [#️⃣ Know the INS and OUTS of Tables Representation](https://medium.com/@cpluz_shrijayan/%EF%B8%8F%E2%83%A3-know-the-ins-and-outs-of-tables-representation-61ab06f014dd?source=rss-c41bfcbcc93c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
