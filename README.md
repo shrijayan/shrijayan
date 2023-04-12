@@ -30,11 +30,11 @@
 
 ## 📚 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Deep Learning: A Beginner’s Guide to Neural Networks](https://medium.com/@shrijayan/demystifying-deep-learning-a-beginners-guide-to-neural-networks-448c1012f48a?source=rss-c41bfcbcc93c------2)
 - [How to Save a File in Vi / Vim &amp; Exit](https://medium.com/@shrijayan/how-to-save-a-file-in-vi-vim-exit-267897f03e09?source=rss-c41bfcbcc93c------2)
 - [Feature Scaling](https://medium.com/@shrijayan/feature-scaling-d4bcba9cb7c5?source=rss-c41bfcbcc93c------2)
 - [Do you know what is meant by  3‐minute story?](https://medium.com/@shrijayan/do-you-know-what-is-meant-by-3-minute-story-341041417c63?source=rss-c41bfcbcc93c------2)
 - [Poisson distribution](https://medium.com/@shrijayan/poisson-distribution-cbacef1221bd?source=rss-c41bfcbcc93c------2)
-- [⏲ Time Series Analysis](https://medium.com/@shrijayan/time-series-analysis-7c4f3e88ad1b?source=rss-c41bfcbcc93c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
