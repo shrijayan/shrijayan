@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shrijayan Rajendran | visit : <a href="https://www.shrijayan.cpluz.com">website</a></h1>
 <h3 align="center">Unlocking Insights and Driving Innovation through Data Analysis</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cpluz-shrijayan&label=Profile%20views&color=0e75b6&style=flat" alt="cpluz-shrijayan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cpluz-shrijayan&label=Profile%20views&color=0e75b6&style=flat" alt="shrijayan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cpluz-shrijayan" alt="cpluz-shrijayan" /></a> </p>
 
