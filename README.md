@@ -14,19 +14,11 @@
 
 - 👯 I’m looking to collaborate on **Data Science related Projects**
 
-- 🤝 I’m looking for jobs with **Fresh Ideas**
-
 - 👨‍💻 All of my projects are available at [Shrijayan's Website](https://www.shrijayan.cpluz.com)
 
 - 📝 I regularly write articles on [Daily Basis](https://www.linkedin.com/in/shrijayan/recent-activity/)
 
 - 💬 Ask me about **Machine Learning & Deep Learning**
-
-- 📫 How to reach me **shrijayan@cpluz.com**
-
-- 📄 Know about my experiences from [Resume](shrijayan.cpluz.com/resume)
-
-- ⚡ Fun fact **I think I am learning Daily**
 
 ## 📚 Blogs posts
 <!-- BLOG-POST-LIST:START -->
