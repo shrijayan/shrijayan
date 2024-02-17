@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/cpluz-shrijayan/cpluz-shrijayan/blob/main/GITHUB%20BCK%20PHOTO.png)](https://shrijayan.cpluz.com)
 <h1 align="center">Hi 👋, I'm Shrijayan Rajendran | visit : <a href="https://www.shrijayan.cpluz.com">website</a></h1>
 <h3 align="center">Unlocking Insights and Driving Innovation through Data Science</h3>
 
