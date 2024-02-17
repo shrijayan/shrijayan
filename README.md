@@ -16,8 +16,6 @@
 
 - 👨‍💻 All of my projects are available at [Shrijayan's Website](https://www.shrijayan.cpluz.com)
 
-- 📝 I regularly write articles on [Daily Basis](https://www.linkedin.com/in/shrijayan/recent-activity/)
-
 - 💬 Ask me about **Machine Learning & Deep Learning**
 
 
