@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shrijayan Rajendran | visit: <a href="https://shrijayan.cpluz.com" target="_blank">website</a></h1>
-<p>Check out <a href="https://www.test.org/" target="_blank" rel="noopener noreferrer">test</a>.</p>
 <h3 align="center">Data Scientist: who turns data into rupees</h3>
 
 <div style="display: flex; justify-content: space-between;">
