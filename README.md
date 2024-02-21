@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shrijayan Rajendran | visit: <a href="https://shrijayan.cpluz.com" target="_blank">website</a></h1>
+<h1 align="center">Hi 👋, I'm Shrijayan | visit: <a href="https://shrijayan.cpluz.com" target="_blank">website</a></h1>
 <h3 align="center">Data Scientist: who turns data into rupees</h3>
 
 <div style="display: flex; justify-content: space-between;">
