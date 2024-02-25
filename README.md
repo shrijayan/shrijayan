@@ -6,8 +6,9 @@
   <p align="center"> <a href="https://twitter.com/rshrijayan" target="blank"><img src="https://img.shields.io/twitter/follow/rshrijayan?logo=twitter&style=for-the-badge" alt="shrijayan" /></a> </p>
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrijayan" alt="cpluz-shrijayan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrijayan" alt="Shrijayan" /></a> </p>
 
+<img src="https://raw.githubusercontent.com/shrijayan/shrijayan/output/snake.svg" alt="Snake animation" />
 
 - 🔭 I’m currently working on **Development of AI**
 
