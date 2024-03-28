@@ -8,8 +8,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrijayan" alt="Shrijayan" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/shrijayan/shrijayan/output/snake.svg" alt="Snake animation" />
-
 - 🔭 I’m currently working on **Development of AI**
 
 - 🌱 I’m currently learning **Artificial Intelligence Technologies**
