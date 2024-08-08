@@ -58,5 +58,5 @@ Secondary & Higher Secondary
 
 ---
 
-**<p align="center">Male | 9698699700 | [cpluzshrijayan@gmail.com](mailto:cpluzshrijayan@gmail.com) | Bengaluru, India</p>**  
+**<p align="center">Male | 9698699700 | [Email](mailto:cpluzshrijayan@gmail.com) | Bengaluru, India</p>**  
 **<p align="center">[Website](https://shrijayan.cpluz.com) | [LinkedIn](https://linkedin.com/in/shrijayan) | [X](https://x.com/rshrijayan)</p>**
