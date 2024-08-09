@@ -25,7 +25,7 @@ Data Scientist with a strong foundation in Machine Learning, Deep Learning, and 
 **Bannari Amman Institute of Technology** | *2020 - 2024*  
 B.Tech Artificial Intelligence and Data Science - 8.37 CGPA
 
-**Bharathi Vidhya Bhavan** | *2016 - 2020* 
+**Bharathi Vidhya Bhavan** | *2016 - 2020*  
 Secondary & Higher Secondary
 
 ---
@@ -58,5 +58,4 @@ Secondary & Higher Secondary
 
 ---
 
-**<p align="center">Male | 9698699700 | [Email](mailto:cpluzshrijayan@gmail.com) | Bengaluru, India</p>**  
 **<p align="center">[Website](https://shrijayan.cpluz.com) | [LinkedIn](https://linkedin.com/in/shrijayan) | [X](https://x.com/rshrijayan)</p>**
