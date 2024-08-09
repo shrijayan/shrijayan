@@ -7,14 +7,14 @@ Data Scientist with a strong foundation in Machine Learning, Deep Learning, and 
 
 ## Experience
 
-**Data Scientist - Thoughtworks** | August 2024 - Present  
+**Data Scientist - Thoughtworks** | *August 2024 - Present*
 - Increased model accuracy for chunk retrieval by 6% using Sentence Transformer and BERT fine-tuning.
 - Developed and deployed an Embedding model for a Medical RAG Application to improve chunk retrieval.
 
-**AI Research Intern - Thoughtworks** | September 2023 - August 2024  
+**AI Research Intern - Thoughtworks** | *September 2023 - August 2024*
 - Implemented various POCs in the GenAI space.
 
-**AI Engineer Intern - Cognitica AI** | June 2023 - September 2023  
+**AI Engineer Intern - Cognitica AI** | *June 2023 - September 2023*  
 - Trained object detection model for industrial safety using TensorFlow and YOLOv8.
 - Developed and deployed a real-time object detection model to identify industrial workers wearing safety equipment.
 
@@ -22,10 +22,10 @@ Data Scientist with a strong foundation in Machine Learning, Deep Learning, and 
 
 ## Education
 
-**Bannari Amman Institute of Technology** | 2020 - 2024  
-B.Tech Artificial Intelligence and Data Science - 8.61 CGPA
+**Bannari Amman Institute of Technology** | *2020 - 2024*  
+B.Tech Artificial Intelligence and Data Science - 8.37 CGPA
 
-**Bharathi Vidhya Bhavan** | 2016 - 2020  
+**Bharathi Vidhya Bhavan** | *2016 - 2020* 
 Secondary & Higher Secondary
 
 ---
