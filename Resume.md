@@ -1,4 +1,4 @@
-# <p align="center">Shrijayan</p>
+# <p align="center">Shrijayan Rajendran</p>
 
 **Objective**  
 Data Scientist with a strong foundation in Machine Learning, Deep Learning, and Generative AI. Proven ability to build and deploy robust models for complex problems. Seeking a challenging role to leverage my skills in developing cutting-edge AI solutions.
