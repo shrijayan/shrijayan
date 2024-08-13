@@ -39,13 +39,24 @@ Secondary & Higher Secondary
 ---
 
 ## POCs
+- **Visual QA:** Detecting accessibility features like ramps and wheelchair-accessible bathrooms in images using Vertex AI and open-source models.
+- **LogBot:** Self-healing failed pipelines by analyzing error logs using GenAI and recommending next steps.
+- **Text2SQL with GenAI:** Generating SQL queries from natural language questions given a SQL schema.
+- **In-context Learning:** Achieving desired outcomes without fine-tuning through multi-shot prompting.
+- **KOKO:** Creating a video avatar (Digital Identity) to engage visitors with TW history through voice interaction and using RAG for answering related questions.
+- **Synthetic Dataset Generation:** Developing a pipeline to create synthetic data for fine-tuning models.
+- **RAG:** Building a Retrieval Augmented Generation pipeline for knowledge base systems.
+- **Agentic Customer Care Agent POC:** Implementing a proof-of-concept for an agentic customer care agent using Langchain.
+- **Harmful Weapon Detection:** Extending an existing vision model to detect new objects within the same category.
+- **Hand Gesture Recognition:** Detecting hands in images and recording videos to recognize hand actions.
 
-- LogBot
-- Visual QA
-- MultiAgent SDLC
-- Interactive Avatar Chatbot
-- Agentic Systems with GraphDB
-- Subsecond Latency Application with MultiAgents
+## Tech problems solved
+- Reducing the recommendation reranking timing by fine-tuning an embedding model.
+- Generating complex questions and Multi-part, Muti-hop questions in synthetic data to mimic real user questions.
+- MultiAgent modeling for any automation needs.
+- Migrating from Pipecone to Milvus
+- Migrating from OpenAI models to Open-Source Llama models as drop in replacement.
+- Ensuring the models can process video data in real-time for practical applications. Accurately identifying and categorizing objects within complex visual scenes.
 
 ---
 
